@@ -13,8 +13,8 @@ export class About extends Component {
                     <h1 class="text-center py-md-3 border-bottom">About this website</h1>
                     <div class="px-md-5 text-large">
                         <div>
-                            This website was made to refamiliarize and reinforce web development concepts including API programming. 
-                            The front-end uses the React framework with Bootstrap for layout. 
+                            This website was made to refamiliarize and reinforce web development concepts.
+                            The front-end uses the React framework with Bootstrap for rapid layout design. 
                             It was chosen for it's ease of use and that many other websites are built using this framework, allowing for familiarity should I ever work on similiar projects.
                             React uses Javascript and AJAX giving it a responsive look and feel for the modern web.
                         </div>

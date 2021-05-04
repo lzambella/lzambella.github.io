@@ -13,33 +13,6 @@ export class Updates extends Component {
             updates: null
         };
     }
-    // Fetch the API data
-    componentDidMount() {
-        fetch('/api/Update') // Fetch every element in the data
-        .then(res => res.json()) // Then JSONize it
-        .then((data) => { // Do something with that data
-            // Iterate over the JSON data
-            console.log(data.length)
-            var updates = null
-            if (data.length == 0) {
-                updates =
-                    <div class="text-center py-md-2">
-                        No updates!
-                    </div>                
-            } else {
-                updates = data.map(update => {
-                    return (
-                        <div class="text-center">
-                            <div class="text-large"><b>{update.date.substring(0,10)}</b>: <i>{update.details}</i></div>
-                        </div>
-                    )
-                });
-            }
-        this.setState({updates: updates}); // Update projects with the JSX data
-        }).catch(console.log);
-    }
-
-
     render() {
         return (
             <Fade>

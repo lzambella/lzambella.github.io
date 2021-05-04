@@ -21,14 +21,13 @@ export class Home extends Component {
             </div>
             <p/>
             <div>
-                My career interests include robotics, software engineering, and embedded systems. These are reflected through my current projects under the projects page. 
-                I have extensive experience in using the industry standard tools appropriate for each project which can be seen below. Other than that, my hobbies are music, photography, and art; the latter two I've done professionally.
+                My career interests include robotics, software engineering, and embedded systems. I also have a huge interest in cloud technologies, having used AWS and GCP to solve business problems.
                 In my free time, I also tinker with electronics such as making new things, repairing broken devices, or tearing stuff down to see how they work and sometimes reverse engineer it. 
                 I very much enjoy learning new skills if it allows me to more efficiently accomplish the task at hand.
             </div>
             <p/>
             <div>
-              To view more information about my completed and in-progress projects, <Link to="/projects">click here</Link> or click on "projects" in the top menu. 
+              To view more information about my completed and in-progress projects, <Link to="/projects">click here</Link> or click on <b>Projects</b> in the top menu. 
               More information about what this site runs on is located <Link to="/about">here</Link> or by clicking "About" in the top menu.
               Otherwise, below is a quick overview of my skills.
             </div>
@@ -38,7 +37,7 @@ export class Home extends Component {
           </div>
           <p/>
           <div>
-            For professional inquiries, I can readily be contacted through E-mail at <a href="mailto:lukezambella@gmail.com">Lukezambella@gmail.com</a> or a message can be sent through either GitHub or LinkedIn.
+            For professional inquiries, I can easily be contacted through E-mail at <a href="mailto:lukezambella@gmail.com">Lukezambella@gmail.com</a> or a message can be sent through LinkedIn.
           </div>
         </div>
         <div>
