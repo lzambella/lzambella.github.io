@@ -12,11 +12,26 @@ export class Employment extends React.Component {
                     <h3 class="font-weight-bold">Verizon Communications</h3>
                     <div class="font-italic d-flex flex-row">
                         <div class="mr-auto flex-column justify-content-start">
+                            MTS-SysEng I
+                        </div>
+                        <div class="d-flex flex-column justify-content-end">
+                            June 14, 2021 - Present
+                        </div>
+                    </div>
+
+                    <p/>
+                    <ul>
+                        <li>Support production releases for customer-facing chat AI services.</li>
+                        <li>Meet with stakeholders to collaborate on new features for company services.</li>
+                        <li>Migrate chat service provider to a newer architecture to improve natural language understanding.</li>
+                    </ul>
+                    <div class="font-italic d-flex flex-row">
+                        <div class="mr-auto flex-column justify-content-start">
                             Network Engineering Intern
                         </div>
                         <div class="d-flex flex-column justify-content-end">
                             June 1, 2020 - August 7, 2020
-                            </div>
+                        </div>
 
                     </div>
                     <p/>

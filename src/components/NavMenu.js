@@ -37,16 +37,13 @@ export class NavMenu extends Component {
                   <NavLink tag={Link} className="text-light" to="employment">Employment</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink tag={Link} className="text-light" to="projects">Projects</NavLink>
-                </NavItem>
-                <NavItem>
                   <NavLink tag={Link} className="text-light" to="about">About</NavLink>
                 </NavItem>
                 <NavItem>
                   <NavLink className="text-light" href={pdf}>Resume</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="text-light" href="mailto:lukezambella.com">Contact</NavLink>
+                  <NavLink className="text-light" href="mailto:luke.zambella.com">Contact</NavLink>
                 </NavItem>
               </ul>
             </Collapse>
