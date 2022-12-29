@@ -22,7 +22,7 @@ export class About extends Component {
                         <div>
                             This site is written entirely in Javascript and React. I chose this because of my familiarity with it from experience and because it is easy to learn and use.
                             This site originally ran on an ASP.NET backend with a postgres database for a few things but I ultimately thought this was overkill for the scope of the site.
-                            As such, I migrated this site to a pure Javascript one with GitHub as my hosting provider.
+                            So, I migrated this site to a pure Javascript one with GitHub as my hosting provider.
                         </div>
                         <p/>
                         <div>
