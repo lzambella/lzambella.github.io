@@ -37,7 +37,7 @@ export class Home extends Component {
           </div>
           <p/>
           <div>
-            For professional inquiries, I can easily be contacted through E-mail at <a href="mailto:luke.zambella@gmail.com">Luke.Zambella@gmail.com</a>.
+            For professional inquiries, I can easily be contacted through E-mail at <a href="mailto:luke.zambella@gmail.com">Luke.Zambella@gmail.com</a>. <b>Note</b>: I am currently not looking for work.
           </div>
         </div>
         <div>

@@ -12,7 +12,7 @@ export class Employment extends React.Component {
                     <h3 class="font-weight-bold">Verizon Communications</h3>
                     <div class="font-italic d-flex flex-row">
                         <div class="mr-auto flex-column justify-content-start">
-                            MTS-SysEng I
+                            Systems Developer II
                         </div>
                         <div class="d-flex flex-column justify-content-end">
                             June 14, 2021 - Present
@@ -20,11 +20,18 @@ export class Employment extends React.Component {
                     </div>
 
                     <p/>
+                    <div><b>Backend developer for a conversational AI leveraged by mobile customer service agents.</b></div>
                     <ul>
+                        <li>Facilitated an entire rebuild and refactor of a legacy codebase to a modern microservice format using Springboot to increase chat AI responsiveness for customer service agents.</li>
+                        <li>Helped migrate a legacy API to Java Springboot in order to interface with Google DialogFlow conversations via webhooks.</li>
+                        <li>Helped migrate conversations fron a propriatary AI conversation manager to a new version leveraging Google Dialogflow.</li>
                         <li>Support production releases for customer-facing chat AI services.</li>
-                        <li>Meet with stakeholders to collaborate on new features for company services.</li>
-                        <li>Migrate chat service provider to a newer architecture to improve natural language understanding.</li>
                     </ul>
+                    <div><b>On-shore support for a conversational AI leveraged by home services agents </b></div>
+                    <ul>
+                        <li>TBA</li>
+                    </ul>
+                    <div class="border-bottom"/>
                     <div class="font-italic d-flex flex-row">
                         <div class="mr-auto flex-column justify-content-start">
                             Network Engineering Intern
@@ -32,7 +39,6 @@ export class Employment extends React.Component {
                         <div class="d-flex flex-column justify-content-end">
                             June 1, 2020 - August 7, 2020
                         </div>
-
                     </div>
                     <p/>
                     <ul>
