@@ -1,26 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb301bc2.chunk.css",
-    "main.js": "/static/js/main.95c6dc85.chunk.js",
-    "main.js.map": "/static/js/main.95c6dc85.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9ffcd1f0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9ffcd1f0.js.map",
-    "static/css/2.f3cffc9e.chunk.css": "/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.ccd4c05f.chunk.js": "/static/js/2.ccd4c05f.chunk.js",
-    "static/js/2.ccd4c05f.chunk.js.map": "/static/js/2.ccd4c05f.chunk.js.map",
+    "main.css": "/static/css/main.7303b439.css",
+    "main.js": "/static/js/main.42f48821.js",
+    "static/media/zambella_resume.pdf": "/static/media/zambella_resume.e1c4a2ecd6378c93f705.pdf",
     "index.html": "/index.html",
-    "precache-manifest.a82eaccc2f9ddd2e4636ff8378c01cbc.js": "/precache-manifest.a82eaccc2f9ddd2e4636ff8378c01cbc.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.f3cffc9e.chunk.css.map": "/static/css/2.f3cffc9e.chunk.css.map",
-    "static/css/main.bb301bc2.chunk.css.map": "/static/css/main.bb301bc2.chunk.css.map",
-    "static/js/2.ccd4c05f.chunk.js.LICENSE.txt": "/static/js/2.ccd4c05f.chunk.js.LICENSE.txt",
-    "static/media/zambella_resume.pdf": "/static/media/zambella_resume.79dc7292.pdf"
+    "main.7303b439.css.map": "/static/css/main.7303b439.css.map",
+    "main.42f48821.js.map": "/static/js/main.42f48821.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ffcd1f0.js",
-    "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.ccd4c05f.chunk.js",
-    "static/css/main.bb301bc2.chunk.css",
-    "static/js/main.95c6dc85.chunk.js"
+    "static/css/main.7303b439.css",
+    "static/js/main.42f48821.js"
   ]
 }
