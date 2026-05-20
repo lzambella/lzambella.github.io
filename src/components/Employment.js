@@ -9,10 +9,10 @@ export class Employment extends React.Component {
                 <h1 class="text-center py-md-3 border-bottom">Employment</h1>
                 <div class="px-md-5 text-large">
                     <p/>
-                    <h3 class="font-weight-bold">Verizon Communications</h3>
+                    <h3 class="font-weight-bold">Verizon GTS</h3>
                     <div class="font-italic d-flex flex-row">
                         <div class="mr-auto flex-column justify-content-start">
-                            Systems Developer II
+                            Systems Developer III
                         </div>
                         <div class="d-flex flex-column justify-content-end">
                             June 14, 2021 - Present
@@ -20,16 +20,16 @@ export class Employment extends React.Component {
                     </div>
 
                     <p/>
-                    <div><b>Backend developer for a conversational AI leveraged by mobile customer service agents.</b></div>
+                    <div><b>Backend developer for a Spring boot application that provides APIs for generative AI services.</b></div>
                     <ul>
                         <li>Facilitated an entire rebuild and refactor of a legacy codebase to a modern microservice format using Springboot to increase chat AI responsiveness for customer service agents.</li>
                         <li>Helped migrate a legacy API to Java Springboot in order to interface with Google DialogFlow conversations via webhooks.</li>
                         <li>Helped migrate conversations fron a propriatary AI conversation manager to a new version leveraging Google Dialogflow.</li>
                         <li>Support production releases for customer-facing chat AI services.</li>
-                    </ul>
-                    <div><b>On-shore support for a conversational AI leveraged by home services agents </b></div>
-                    <ul>
-                        <li>TBA</li>
+                        <li>Develop APIs providing AI summarizations given to CS agents at the end of a call or before a transfer.</li>
+                        <li>Process and contexualize millions of packets of data for business analysis</li>
+                        <li>Provide real time transcriptions of live calls to CS agents.</li>
+                        <li>Utilize generative AI on live call to provide contextualized answers to the CS agent that the calling customer may want to know.</li>
                     </ul>
                     <div class="border-bottom"/>
                     <div class="font-italic d-flex flex-row">

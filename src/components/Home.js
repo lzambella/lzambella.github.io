@@ -16,14 +16,12 @@ export class Home extends Component {
           <h3 class="text-center py-md-3 text-large text-bold"><a href={pdf}>Click here</a> to see my most up to date resume.</h3>
           <div class="px-md-5 text-large">
             <div>
-              Hi there! My name is Luke and I'm a technology afficinado from the Jersey Shore. Currently, I study at The College of New Jersey pursuing a Bachelor of Science in Computer Engineering with a focus on robotics. 
-              Before that, I obtained my Associates degree in Mathematics at Ocean County College. 
+              Hi there! My name is Luke and I am a computer guy from the Jersey Shore. I have studied at The College of New Jersey and received my Bachelor of Science in Computer Engineering. Before that, I obtained my Associates degree in Mathematics at Ocean County College. Currently, I am working as a backend web developer providing APIs for internal generative AI services.
             </div>
             <p/>
             <div>
-                My career interests include robotics, software engineering, and embedded systems. I also have a huge interest in cloud technologies, having used AWS and GCP to solve business problems.
-                In my free time, I also tinker with electronics such as making new things, repairing broken devices, or tearing stuff down to see how they work and sometimes reverse engineer it. 
-                I very much enjoy learning new skills if it allows me to more efficiently accomplish the task at hand.
+                My interests include robotics, software engineering, hardware design, and embedded systems. I also have an interest in cloud technologies, having used both AWS and GCP to solve business problems.
+                In my free time, I like to draw, play piano, make music with old synthesizers, mess with my server and host useful applications, design electronics I'd actually use like keyboards.
             </div>
             <p/>
             <div>
